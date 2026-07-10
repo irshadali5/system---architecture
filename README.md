@@ -75,6 +75,20 @@ The book's actual argument isn't the 43 topics — it's that a small number of i
 
 Complete — 43/43 chapters, both volumes. Built iteratively, one chapter per working session, each one checked against everything written before it for consistency of terminology, cross-references, and the C++/Rust comparison format.
 
-## License / usage
+## AI Disclosure
 
-Personal reference material. No license asserted — reuse, adapt, or extend freely.
+This repository was created as part of my learning process. Some explanations and code examples were initially generated with AI assistance, then reviewing, verifying, correcting, and organized ongoing by me. Any remaining errors aren't my responsibility.
+
+## Open to Contribution
+Any issues or correction or suggestion or add new content are welcome.
+
+## Usage
+
+- ✅ Read and learn
+- ✅ Copy and modify
+- ✅ Share with others
+- ❌ Do not sell or use commercially without my permission.
+
+You are welcome to read, learn from, copy, modify, and share this project for personal and educational purposes.
+
+Commercial use, including selling this project or any modified version of it, is not permitted without my written permission.
